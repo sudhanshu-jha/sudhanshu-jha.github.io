@@ -1,0 +1,15 @@
+This zip file contains optimized resources for http://www.sudhanshujha.info/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/bootstrap.min.css: http://www.sudhanshujha.info/css/bootstrap.min.css
+js/jquery.3.2.1.min.js: http://www.sudhanshujha.info/js/core/jquery.3.2.1.min.js
+js/popper.min.js: http://www.sudhanshujha.info/js/core/popper.min.js
+js/bootstrap.min.js: http://www.sudhanshujha.info/js/core/bootstrap.min.js
+js/now-ui-kit.js: http://www.sudhanshujha.info/js/now-ui-kit.js?v=1.1.0
+js/main.js: http://www.sudhanshujha.info/scripts/main.js
+image/Sudhanshu.jpg: http://www.sudhanshujha.info/images/Sudhanshu.jpg
